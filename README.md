@@ -1,2 +1,2 @@
 # Quantum-Hello-World
- Quantum algorithm - first code
+ Quantum algorithm - first code.
